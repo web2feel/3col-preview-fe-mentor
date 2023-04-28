@@ -1,0 +1,7 @@
+:root {
+  --trans-white: hsla(0, 0%, 100%, 0.75);
+  --light-gray: hsl(0, 0%, 95%);
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
